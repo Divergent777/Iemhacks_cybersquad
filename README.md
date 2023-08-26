@@ -22,7 +22,8 @@ Drones for Fast and safe delivery
     </header>
      <section id="home">
         <h2>Fast and Safe Drone Deliveries</h2>
-        <p>We specialize in quick and secure deliveries using cutting-edge drone technology.</p>
+        <p>We are a group of passionate enthusiats working towards making this world grow faster with catering your needs and necessities with great speed.
+            We specialize in quick and secure deliveries using cutting-edge drone technology.</p>
     </section>
      <section id="services">
         <h2>Our Services</h2>
@@ -36,6 +37,7 @@ Drones for Fast and safe delivery
     <section id="about">
         <h2>About Us</h2>
         <p>We are a team of drone enthusiasts committed to revolutionizing the delivery industry.</p>
+        <p>We ensure swift and secure delivery of your needs.</p>
     </section>
     <section id="contact">
         <h2>Contact Us</h2>
