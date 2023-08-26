@@ -9,7 +9,7 @@ Drones for Fast and safe delivery
 <!DOCTYPE html>
 <html>
 <head>
-    <title>VOLANT: AT YOUR DOORSTEP</title>
+<title>VOLANT: AT YOUR DOORSTEP</title>
 </head>
 <body>
     <header>
