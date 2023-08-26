@@ -9,7 +9,7 @@ Drones for Fast and safe delivery
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Your Drone Delivery Website</title>
+    <title>VOLANT: AT YOUR DOORSTEP</title>
 </head>
 <body>
     <header>
@@ -48,7 +48,6 @@ Drones for Fast and safe delivery
         <h2>Contact Us</h2>
         <p>Have questions? Reach out to us at <a href="mailto:info@droneswift.com">info@droneswift.com</a></p>
     </section>
-    
     <footer>
         <p>&copy; 2023 DroneSwift Delivery</p>
     </footer>
