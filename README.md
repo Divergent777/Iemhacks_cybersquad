@@ -23,13 +23,11 @@ Drones for Fast and safe delivery
             </ul>
         </nav>
     </header>
-    
-    <section id="home">
+     <section id="home">
         <h2>Fast and Safe Drone Deliveries</h2>
         <p>We specialize in quick and secure deliveries using cutting-edge drone technology.</p>
     </section>
-    
-    <section id="services">
+     <section id="services">
         <h2>Our Services</h2>
         <p>Choose from a variety of delivery options to suit your needs.</p>
         <ul>
@@ -38,12 +36,10 @@ Drones for Fast and safe delivery
             <li>Remote Area Deliveries</li>
         </ul>
     </section>
-    
     <section id="about">
         <h2>About Us</h2>
         <p>We are a team of drone enthusiasts committed to revolutionizing the delivery industry.</p>
     </section>
-    
     <section id="contact">
         <h2>Contact Us</h2>
         <p>Have questions? Reach out to us at <a href="mailto:info@droneswift.com">info@droneswift.com</a></p>
