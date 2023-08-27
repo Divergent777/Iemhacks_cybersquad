@@ -41,7 +41,7 @@ Drones for Fast and safe delivery
     </section>
     <section id="contact">
         <h2>Contact Us</h2>
-        <p>Have questions? Reach out to us at droneswift@gmail.com </p>
+        <p>Have questions? Reach out to us at droneswift2@gmail.com </p>
     </section>
     <footer>
         <p>2023 DroneSwift Delivery</p>
