@@ -31,7 +31,10 @@ Drones for Fast and safe delivery
         <ul>
             <li>Same-Day Delivery</li>
             <li>Express Shipping</li>
+            <p> Drones have the potential to revolutionize the delivery industry by offering safe and fast delivery options. They can bypass traffic congestion and deliver packages directly to specific locations, reducing delivery times significantly. Drones also minimize human contact during the delivery process, which can be especially useful during situations like pandemics. However, challenges such as regulatory restrictions, battery limitations, and safety concerns need to be addressed for widespread implementation of drone deliveries. </p>
             <li>Remote Area Deliveries</li>
+            <p> We are providing extraordinary and fast service in location missing persons or disaster survivors in difficult -to -reach areas like disaster management, nature calamity providing real -time services.
+Our service also aims to provide medical supplies, food and essential essential goods to remote or disaster -stricken regions , improving the efficiency of humanitarian efforts. </p>
         </ul>
     </section>
     <section id="about">
